@@ -22,7 +22,6 @@ def bonus
 
   #code your solution here:
   def bonus
-def bonus
   epic_tragedy = {
    :montague => {
       :patriarch => {name: "Lord Montague", age: "53"},
